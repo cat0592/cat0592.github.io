@@ -1,1 +1,1 @@
-# 정석우 작가의 포트폴리오 웹사이트(데모)
+# Seokwoo Chung's portfolio
