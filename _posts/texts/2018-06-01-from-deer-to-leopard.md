@@ -3,6 +3,7 @@ layout: text
 categories: text
 author: 정석우
 title: 사슴에서 표범
+order: 115
 ---
 
 From deer to leopard
