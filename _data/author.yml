@@ -7,6 +7,7 @@ exhibitions:
   -
     title: Solo exhibitions
     list:
+      - 2019 Hebedang, gallery Dos, Seoul
       - 2017 From deer to leopard, spacesun+, Seoul
       - 2016 Eye to see the ridge, collabomarket, Seoul
       - 2013 The beat, that I remember, gallery Dos, Seoul
@@ -40,6 +41,7 @@ exhibitions:
   -
     title: 개인전
     list:
+      - 2019 회베당, 갤러리도스, 서울
       - 2017 사슴에서 표범, 선아트스페이스, 서울
       - 2016 능선을 보는 눈, 콜라보 마켓, 서울
       - 2013 내가 기억하는 박동, 갤러리 도스, 서울
@@ -48,6 +50,8 @@ exhibitions:
   -
     title: 단체전
     list:
+      - 2018 추상은 동사다, 살롱아터테인, 서울
+      - 2018 백지상태, 갤러리 초이, 서울
       - 2017 운명의 수레바퀴, KSD갤러리, 서울
       - 2017 한여름밤의 꿈, 포월스갤러리, 서울
       - 2016 물과 꿈, 샘표스페이스, 이천
@@ -65,5 +69,3 @@ exhibitions:
   -
     title: 수상 / 레지던시
     list: 2011~2013 금호창작스튜디오 7기 입주작가
-
-
